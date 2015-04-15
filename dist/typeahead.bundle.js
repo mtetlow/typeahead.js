@@ -1779,4 +1779,4 @@
             return this;
         };
     })();
-})(window.jQuery);
+})(window.$j);
